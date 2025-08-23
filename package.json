@@ -98,7 +98,7 @@
     "vue": "^3.2.47",
     "vue-cookies": "^1.8.3",
     "vue-matomo": "^4.2.0",
-    "vue-router": "^4.1.6",
+    "vue-router": "^4.5.1",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.7.3"
   },
