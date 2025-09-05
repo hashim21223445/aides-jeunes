@@ -1,4 +1,4 @@
-FROM python:3.11
+FROM python:3.14.0rc2-slim-trixie
 
 RUN mkdir /usr/src/openfisca
 WORKDIR /usr/src/openfisca
