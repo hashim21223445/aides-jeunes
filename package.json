@@ -57,7 +57,7 @@
     "@etalab/decoupage-administratif": "^4.0.0",
     "@gouvfr/dsfr": "^1.12.1",
     "@sentry/node": "^7.118.0",
-    "@sentry/vue": "^7.118.0",
+    "@sentry/vue": "^7.120.4",
     "@sentry/profiling-node": "^7.118.0",
     "@vitejs/plugin-legacy": "^5.1.5",
     "@vitejs/plugin-vue": "^5.2.0",
