@@ -58,7 +58,7 @@
     "@gouvfr/dsfr": "^1.12.1",
     "@sentry/node": "^7.118.0",
     "@sentry/vue": "^7.118.0",
-    "@sentry/profiling-node": "^7.118.0",
+    "@sentry/profiling-node": "^7.120.4",
     "@vitejs/plugin-legacy": "^5.1.5",
     "@vitejs/plugin-vue": "^5.2.0",
     "axios": "^1.8.3",
