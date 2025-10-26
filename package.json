@@ -65,7 +65,7 @@
     "communes-lonlat": "^1.1.0",
     "consolidate": "^0.16.0",
     "cookie-parser": "^1.4.7",
-    "core-js": "^3.39.0",
+    "core-js": "^3.45.1",
     "cors": "^2.8.5",
     "currency.js": "^2.0.4",
     "dayjs": "^1.11.13",
