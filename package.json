@@ -72,7 +72,7 @@
     "dotenv": "^16.4.5",
     "errorhandler": "^1.5.1",
     "event-stream": "4.0.1",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "express-validator": "^7.3.0",
     "haversine": "^1.1.1",
     "@iframe-resizer/parent": "^5.5.2",
