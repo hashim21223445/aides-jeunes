@@ -83,9 +83,9 @@
     "lodash.clonedeep": "^4.5.0",
     "lodash.isequal": "^4.5.0",
     "lodash.range": "^3.2.0",
-    "mjml": "^4.15.0",
-    "mongodb": "^4.17.0",
-    "mongoose": "^6.13.6",
+    "mjml": "^5.0.0",
+    "mongodb": "^7.9.1",
+    "mongoose": "^9.13.0",
     "morgan": "^1.10.1",
     "nodemailer": "^7.0.11",
     "openid-client": "^5.6.5",
@@ -100,7 +100,7 @@
     "vue-matomo": "^4.2.0",
     "vue-router": "^4.5.1",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^5.2.1"
+    "webpack-dev-server": "^6.0.0"
   },
   "devDependencies": {
     "@sentry/vite-plugin": "^2.22.4",
